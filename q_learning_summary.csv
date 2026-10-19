@@ -1,0 +1,2 @@
+PairName,Usable_Observations,Train_Observations,Test_Observations,Episodes,Estimated_Cost_Rate,Strategy_Cumulative_Return,Buy_Hold_Cumulative_Return,Mean_Reward_Per_Test_Bar,Unique_Actions_Test,Note
+EUR/USD,490,343,146,30,1.30192633936548,0.0,0.01054329402759313,0.0,1,Illustrative only; cost units and method require validation.

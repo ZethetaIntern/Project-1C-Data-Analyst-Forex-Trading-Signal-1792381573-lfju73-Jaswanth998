@@ -1,0 +1,4 @@
+Source_File,Original_Rows,Cleaned_Rows,Missing_Cells_in_Source,Duplicate_Rows_in_Source,Cleaning_Notes
+forex_price_data.csv,500,500,0,0,Sorted by currency pair and timestamp; timestamp standardized.
+mc_scenarios.csv,1000,1000,0,0,Sorted by ScenarioID; text fields trimmed where applicable.
+trade_log.csv,150,150,0,0,Sorted by TradeID; entry/exit timestamps standardized.
